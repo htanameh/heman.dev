@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "heman-dev",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A simple personal portfolio site",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Hemanath (Raja) <rajasmart48@gmail.com> (https://heman.dev)",
   "dependencies": {
     "gatsby": "^2.13.18",
     "gatsby-cli": "^2.7.13",
@@ -23,7 +23,9 @@
     "prettier": "^1.18.2"
   },
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "portfolio",
+    "starter"
   ],
   "license": "MIT",
   "scripts": {
@@ -36,9 +38,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/rajasmart48/heman.dev"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  }
+    "url": "https://github.com/rajasmart48/heman.dev/issues"
+  },
+  "homepage": "https://heman.dev"
 }
